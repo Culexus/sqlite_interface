@@ -1,0 +1,3 @@
+﻿  sqlite3.c
+e:\client_server\sqlite_interface_0\sqlite_interface_0\sqlite3.c(32732): error C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\sysinfoapi.h(436): note: see declaration of 'GetVersionExA'

@@ -1,0 +1,21 @@
+﻿  main.cpp
+e:\client_server\sqlite_interface_0\sqlite_interface_0\main.cpp(22): warning C4326: return type of 'main' should be 'int' instead of 'void'
+e:\client_server\sqlite_interface_0\sqlite_interface_0\main.cpp(106): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+e:\client_server\sqlite_interface_0\sqlite_interface_0\main.cpp(128): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+e:\client_server\sqlite_interface_0\sqlite_interface_0\main.cpp(133): warning C4473: 'printf' : not enough arguments passed for format string
+  e:\client_server\sqlite_interface_0\sqlite_interface_0\main.cpp(133): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  e:\client_server\sqlite_interface_0\sqlite_interface_0\main.cpp(133): note: the missing variadic argument 1 is required by format string '%i'
+e:\client_server\sqlite_interface_0\sqlite_interface_0\main.cpp(135): warning C4473: 'printf' : not enough arguments passed for format string
+  e:\client_server\sqlite_interface_0\sqlite_interface_0\main.cpp(135): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  e:\client_server\sqlite_interface_0\sqlite_interface_0\main.cpp(135): note: the missing variadic argument 1 is required by format string '%i'
+e:\client_server\sqlite_interface_0\sqlite_interface_0\main.cpp(141): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+e:\client_server\sqlite_interface_0\sqlite_interface_0\main.cpp(156): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+e:\client_server\sqlite_interface_0\sqlite_interface_0\main.cpp(203): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+e:\client_server\sqlite_interface_0\sqlite_interface_0\main.cpp(205): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+  sqlite_interface_0.vcxproj -> E:\Client_server\sqlite_interface_0\x64\Debug\sqlite_interface_0.exe
